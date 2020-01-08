@@ -34,6 +34,13 @@ p:hover{
     text-decoration: underline;
 }
 
+div.disclaimer{
+    text-align: center !important;
+}
+p.disclaimer:hover{
+    text-decoration: none !important;
+}
+
 small{
     position: absolute;
     color: #454d55;
