@@ -78,3 +78,12 @@ a[href^="mailto:"]:hover{
     -moz-user-select: none;
     -ms-user-select: none;
 }
+
+.homework-solver {
+    margin-top: 10%;
+    text-align: center;
+}
+img {
+    
+    width: 300px;
+}
